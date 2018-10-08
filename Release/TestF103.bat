@@ -1,0 +1,1 @@
+Keil2GCC.exe d:\TestF103\MDK-ARM\TestF103.uvproj ..\
